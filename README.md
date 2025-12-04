@@ -65,8 +65,6 @@ Compatible con Kali Linux y distribuciones similares
 - Priorización de redes con mayor señal
 
 ### 📊 Reportes Profesionales
-- Generación automática de reportes HTML con gráficos interactivos
-- Dashboard con estadísticas en tiempo real
 - Exportación de datos en formato CSV
 - Visualización de distribución de canales, cifrados y fabricantes
 
