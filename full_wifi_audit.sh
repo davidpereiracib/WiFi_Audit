@@ -2,8 +2,8 @@
 
 #=============================================================================
 # Script de Auditoría WiFi Automatizada para Raspberry Pi + Kali Linux 2025.3
-# Versión: 2.6 FINAL (Completo y Corregido)
-# Uso: sudo ./wifi_audit.sh
+# Versión: 2.6 (En desarrollo)
+# Uso: sudo ./wifi_full_audit.sh
 # Compatible: Alfa AWUS036ACH (RTL8812AU)
 #=============================================================================
 
@@ -891,4 +891,3 @@ main() {
 trap cleanup EXIT INT TERM
 
 main "$@"
-
