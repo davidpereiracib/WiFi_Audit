@@ -44,12 +44,9 @@ Compatible con Kali Linux y distribuciones similares
 - [Requisitos](#-requisitos)
 - [Instalación del Repositorio](#-instalación-del-repositorio)
 - [Uso de los Scripts](#-uso-de-los-scripts)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Configuración Automática](#-configuración-automática)
-- [Ejemplos](#-ejemplos)
-- [Advertencias Legales](#️-advertencias-legales)
-- [Contribuir](#-contribuir)
-- [Licencia](#-licencia)
+- [Buenas Prácticas de Auditoría Ética](#-buenas-prácticas-de-auditoría-etica)
+- [Posibles Mejoras Futuras](#-posibles-mejoras-futuras)
+- [Autor](#-autor)
 
 ---
 
@@ -134,7 +131,7 @@ Este script realiza:
 - Captura de handshakes
 - Almacenamiento de evidencias y resultados
 
-#### Workflow basado en aircrack-ng
+#### Flujo basado en aircrack-ng
 ```
 sudo ./auto_aircrack.sh
 ```
@@ -146,7 +143,7 @@ Acciones típicas:
 - Opcional: fuerza de handshakes mediante desautenticaciones.
 - Exportación de capturas para análisis offline.
 
-#### Workflow basado en wifite
+#### Flujo basado en wifite
 ```
 sudo ./auto_wifite.sh
 ```
