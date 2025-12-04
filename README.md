@@ -44,7 +44,7 @@ Compatible con Kali Linux y distribuciones similares
 - [Requisitos](#-requisitos)
 - [Instalación del Repositorio](#-instalación-del-repositorio)
 - [Uso de los Scripts](#-uso-de-los-scripts)
-- [Buenas Prácticas de Auditoría Ética](#-buenas-prácticas-de-auditoría-etica)
+- [Buenas Prácticas de Auditoría Ética](#-buenas-practicas-de-auditoria-etica)
 - [Posibles Mejoras Futuras](#-posibles-mejoras-futuras)
 - [Autor](#-autor)
 
